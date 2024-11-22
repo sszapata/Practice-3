@@ -1,2 +1,1 @@
-LPractica3.py este scrip contiene el código de la practica que se realizo en Lenguajes de programación, creado por Juan Sebastián Cortes y Sebastian Zapata, La plataforma que usamos PyCharm.
-Implementamos un analizador sintáctico para expresione aritméticas en Python
+LPractica3.py es un proyecto desarrollado por Juan Sebastián Cortes y Sebastian Zapata en PyCharm para la asignatura Lenguajes de Programación. Implementa un analizador sintáctico en Python que genera árboles de derivación y árboles sintácticos abstractos (AST) a partir de una gramática en formato BNF.
